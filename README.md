@@ -5,7 +5,8 @@
 1. Sample Superstore — Power BI Dashboard
 Interactive BI dashboard that analyzes sales, profit, and customer performance using the classic “Sample Superstore” dataset. Built with Power BI Desktop to demonstrate data modeling, DAX, and storytelling with visuals.
 
-<img width="1913" height="1014" alt="Screenshot 2025-08-30 180509" src="https://github.com/user-attachments/assets/06747ec2-2b89-47dc-b9aa-362b4c5d8bdf" />
+<img width="1913" height="1014" alt="Screenshot 2025-08-30 180509" src="https://github.com/user-attachments/assets/69e669ea-ec86-4036-9648-fef5d4283beb" />
+
 
 
 3. Table of Contents
